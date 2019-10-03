@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P3SAUL</string>
+    <string name="describe">tesoem</string>
+    <string name="principal">mensaje de bienvenida</string>
+    <string name="titulomenu">MENU PRINCIPAL</string>
+    <string name="tache">tache</string>
+    <string name="elim">eliminars</string>
+</resources>
